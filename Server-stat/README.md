@@ -1,3 +1,5 @@
+https://roadmap.sh/projects/server-stats
+
 How to use the script:
 1. Save as `server-stats.sh`
 2. Give execution permission: `chmod +x server-stats.sh` 
